@@ -8,3 +8,7 @@ This repository was created to study POO with Python
 - Integrate classes efficiently to model more complex systems;
 - Follow best programming practices to write organized and reusable code;
 - Develop skills to apply OOP in daily programming tasks.
+
+✨ Badges
+
+[![wakatime](https://wakatime.com/badge/github/JesseTrainee/python-poo.svg)](https://wakatime.com/badge/github/JesseTrainee/python-poo)
